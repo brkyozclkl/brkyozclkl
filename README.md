@@ -1,26 +1,32 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Merhaba, Ben Berkay Özçelikel!
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3BAEF7&center=true&vCenter=true&width=600&lines=Elektronik+ve+Haberle%C5%9Fme+M%C3%BChendisi+Aday%C4%B1;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirme+Merakl%C4%B1s%C4%B1;Teknoloji+ve+%C4%B0novasyon+Tutkunu" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Berkay%20Özçelikel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Elektronik%20ve%20Haberleşme%20Mühendisi%20Adayı&descAlignY=51&descAlign=50"/>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BAEF7&center=true&vCenter=true&width=600&lines=Merhaba+%F0%9F%91%8B+Ben+Berkay;Elektronik+ve+Haberle%C5%9Fme+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirmeye+Tutkuluyum;Yeni+Teknolojileri+Ke%C5%9Ffetmeyi+Seviyorum" />
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Circuit.png" alt="Circuit" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Circuit.png" alt="Circuit" width="25" height="25" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" height="25" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Hakkımda
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisiyim  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> Yazılım geliştirme ve elektronik projeler üzerinde çalışıyorum  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" /> Sürekli yeni teknolojiler öğrenmeye ve kendimi geliştirmeye odaklıyım  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Açık kaynak projelere katkıda bulunmayı seviyorum  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Yenilikçi fikirlere ve teknolojik gelişmelere ilgi duyuyorum
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" />&nbsp; Hakkımda
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Teknoloji Yığınım
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />&nbsp; Kocaeli Üniversitesi'nde eğitimime devam ediyorum  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />&nbsp; Yazılım ve elektronik alanında projeler geliştiriyorum  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" />&nbsp; Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" />&nbsp; Açık kaynak dünyasına katkıda bulunmayı seviyorum  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" />&nbsp; Yenilikçi fikirlere ve teknolojik gelişmelere ilgi duyuyorum
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />&nbsp; Teknoloji Yığınım
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cpp,react,nodejs,tensorflow,qt,mysql,mongodb,sqlite,vscode,git&perline=7" />
@@ -29,7 +35,7 @@
 <details>
 <summary>Detaylı Teknoloji Listesi 🔍</summary>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Programlama & İşaretleme Dilleri
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />&nbsp; Programlama & İşaretleme Dilleri
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -39,7 +45,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Frameworks & Kütüphaneler
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" />&nbsp; Frameworks & Kütüphaneler
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -49,7 +55,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" /> Veritabanları & Cloud Hosting
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" height="25" />&nbsp; Veritabanları & Cloud Hosting
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -58,7 +64,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Yazılım & Araçlar
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />&nbsp; Yazılım & Araçlar
 
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -68,24 +74,28 @@
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub İstatistiklerim
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />&nbsp; GitHub İstatistiklerim
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=brkyozclkl&theme=react&hide_border=true&fire=DD2727" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=brkyozclkl&theme=react&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkyozclkl&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" />&nbsp; GitHub Trofeleri
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brkyozclkl&show_icons=true&count_private=true&hide_border=true&title_color=3BAEF7&icon_color=3BAEF7&text_color=c9d1d9&bg_color=0d1117" alt="Berkay Özçelikel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkyozclkl&layout=compact&hide_border=true&title_color=3BAEF7&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brkyozclkl&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brkyozclkl&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BAEF7&ring=3BAEF7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=3BAEF7&sideLabels=3BAEF7&dates=C9D1D9" />
-</div>
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trofeleri
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brkyozclkl&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Spotify'da Dinlediğim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />&nbsp; Spotify'da Dinlediğim
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31k53qnwzwqnwpzbgq6lxqye5b2y&redirect=true">
@@ -93,36 +103,37 @@
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" /> Benimle İletişime Geçin
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="25" height="25" />&nbsp; İletişim
 
 <div align="center">
   <a href="https://www.linkedin.com/in/berkay-özçelikel-2b661b278" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
   <a href="https://github.com/brkyozclkl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
   <a href="mailto:berkayozcelikel0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
   <a href="https://www.instagram.com/brkyozclkl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+<br/>
 
 <div align="center">
-  <br>
-  <p align="center"><b>Ziyaretçi Sayısı</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{brkyozclkl}/count.svg" /></p> 
+  <img src="https://komarev.com/ghpvc/?username=brkyozclkl&style=for-the-badge&color=3BAEF7" alt="Profile Views" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BAEF7&height=120&section=footer"/>
-
-<!-- Snake animation için GitHub Actions workflow'u gerekli -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brkyozclkl/brkyozclkl/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brkyozclkl/brkyozclkl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brkyozclkl/brkyozclkl/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brkyozclkl/brkyozclkl/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brkyozclkl/brkyozclkl/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/brkyozclkl/brkyozclkl/output/github-contribution-grid-snake.svg" />
   </picture>
-</div> 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/> 
