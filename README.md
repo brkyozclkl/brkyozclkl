@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Berkay%20Özçelikel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Elektronik%20ve%20Haberleşme%20Mühendisi%20&descAlignY=51&descAlign=50"/>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BAEF7&center=true&vCenter=true&width=800&lines=Elektronik+ve+Haberle%C5%9Fme+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirme+Merakl%C4%B1s%C4%B1;Teknoloji+ve+%C4%B0novasyon+Tutkunu" />
-</p>
 
 <div align="center">
   🔌 &nbsp; 🤖 &nbsp; 📡
@@ -16,7 +13,7 @@
 
 ## 🚀 &nbsp; Hakkımda
 
-🎓 &nbsp; Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisiyim  
+🎓 &nbsp; Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisi  
 🤖 &nbsp; PLC programlama ve endüstriyel otomasyon sistemleri üzerinde çalışıyorum  
 🧠 &nbsp; Yapay zeka ve görüntü işleme alanlarında kendimi geliştiriyorum  
 🔬 &nbsp; Gömülü sistemler ve mikroişlemciler konularında projeler geliştiriyorum  
