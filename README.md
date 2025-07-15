@@ -16,7 +16,6 @@
 🎓 &nbsp; Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisi  
 🤖 &nbsp; PLC programlama ve endüstriyel otomasyon sistemleri üzerinde çalışıyorum  
 🧠 &nbsp; Yapay zeka ve görüntü işleme alanlarında kendimi geliştiriyorum  
-🔬 &nbsp; Gömülü sistemler ve mikroişlemciler konularında projeler geliştiriyorum  
 💡 &nbsp; Endüstri 4.0 ve IoT teknolojilerine ilgi duyuyorum
 
 <br/>
